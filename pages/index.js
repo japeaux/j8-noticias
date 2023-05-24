@@ -45,7 +45,7 @@ export default function Home() {
      
         <img src="/post.jpeg" alt="Nikita" style={{width:'100%', justifyContent:'center',}} />
 
-        <Button variant="contained" href="https://kiwify.app/Ti9MNth?afid=478fNesw"  style={{ display:'flex',marginTop:30}}  >
+        <Button variant="contained" href="https://kiwify.app/Ti9MNth?afid=478fNesw"  style={{ display:'flex',marginTop:15}}  >
          <p  style={{textAlign:'inherit', lineHeight:'1.5', fontSize:'1.5rem'}}>
           Quero aprender
         </p>
