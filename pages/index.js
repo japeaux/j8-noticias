@@ -78,7 +78,7 @@ export default function Home() {
         Além disso, Nikitta continua a buscar inovação e avanços em seus conteúdos. Ela é grata por todo o sucesso que conquistou até agora, mas sabe que ainda há muito mais a ser alcançado.
         </p>
 
-        <Button variant="contained" href="https://kiwify.app/Ti9MNth"  style={{ display:'flex',}}  >
+        <Button variant="contained" href="https://kiwify.app/Ti9MNth?afid=478fNesw"  style={{ display:'flex',}}  >
          <p  style={{textAlign:'inherit', lineHeight:'1.5', fontSize:'1.5rem'}}>
           Quero aprender
         </p>
@@ -99,7 +99,7 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://kiwify.app/Ti9MNth"
+          href="https://kiwify.app/Ti9MNth?afid=478fNesw"
           target="_blank"
           rel="noopener noreferrer"
         >
