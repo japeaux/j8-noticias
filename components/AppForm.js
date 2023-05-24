@@ -18,7 +18,7 @@ function AppForm(props) {
       <Container maxWidth="md">
         <Box sx={{ mt: 3, mb: 12 }}>
           <Paper
-            background="white"
+            background="light"
             sx={{ py: { xs: 4, md: 8 }, px: { xs: 3, md: 6 } }}
           >
             {children}
